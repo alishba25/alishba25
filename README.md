@@ -1,23 +1,49 @@
-# ⚡ Alishba | Data, Web3 & Chaos Engineer 🚀  
+# Alishba Ansari
+**Computer Engineer · AI & Data · Mumbai**
 
-> **"If data is the new oil, I’m out here drilling insights."** ⛏️📊  
+I build systems that work in production — ML pipelines, data infrastructure, and technical programs end-to-end.
 
-👀 **What I Do:**  
-- Transform boring spreadsheets into **data-driven masterpieces** 🎨  
-- Build **Web3 analytics dashboards** that actually make sense 🤯  
-- Make Python & SQL **bend to my will** 🐍✨  
+**98% model accuracy · Top 4/60 in B.Tech · Research Published (IJARSCT, 2025)**
 
-🌱 **Currently Cooking:**  
-- **MindMeld: A Code Collaboration Game** 🔍📈  
-- **Tokenomics Data Visualizer** 💰💡  
+---
 
-💞️ **Collabs? Only if you're:**  
-- Into **Web3 + Fintech + AI Models** 🏦🔗  
-- Down for **fun, chaotic, next-level data projects** 🚀  
+## Experience
 
-📫 **Find Me in the Wild:**  
-- **Email:** alishba25ansari@gmail.com ✉️  
-- **GitHub:** [@alishba25](https://github.com/alishba25) 💻  
-- **Twitter (X):** [@___alishba___](https://x.com/___alishba___]) 🐦  
+**AI Model Analyst · Balcksof**
+Built and deployed ML transcription pipelines in production. Owned the full evaluation loop — monitoring, benchmarking, quality assurance.
 
-⚡ **Random Fact:** I write SQL queries so optimized, even your server takes a coffee break ☕🔥  
+**Data Engineer · Volstrekt Infotech**
+Built automated large-scale data extraction pipelines using Python and Selenium. Enforced data quality and governance standards across thousands of listings.
+
+**AI/ML Intern · YBI Foundation**
+Designed and validated ML models with responsible AI frameworks. Improved cross-functional delivery efficiency by 30%.
+
+**TechEd Programme Associate · CLC Mumbai**
+Designed and shipped a 30+ hour AI & Automation curriculum from scratch — 10+ modules, 20+ assets, 5+ instructors. Boosted operational efficiency by 70%.
+
+---
+
+## Projects
+- **MindMeld** — Code Collaboration Game *(Published: IJARSCT, April 2025)*
+- **Sales Forecasting Dashboard** — AI-powered revenue predictions
+- **Onchain Analytics Dashboard** — Real-time Ethereum wallet insights
+- **Weather Forecasting App** — Python, APIs, Tkinter
+
+---
+
+## Stack
+`Python` `SQL` `ML` `Gen AI` `Data Pipelines` `Model Deployment` `Automation`
+`Selenium` `Data Quality & Governance` `APIs` `Visualization` `Arduino` `C++`
+
+---
+
+## Education
+B.Tech Computer Engineering · D.Y. Patil · 8.8 CGPA · 2025
+Top 4 of 60 · Research Published · IJARSCT, April 2025
+
+---
+
+## Reach Me
+📧 alishba25ansari@gmail.com
+💼 [LinkedIn](your-url)
+🐦 [@___alishba___](https://x.com/___alishba___)
